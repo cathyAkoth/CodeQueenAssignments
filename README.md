@@ -2,3 +2,5 @@
 
 Assignments from code queen classes.
 written in javascript,html and css.
+DOM.
+Eventlistners.
